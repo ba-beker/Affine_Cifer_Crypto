@@ -1,4 +1,4 @@
-# mini_project
+# Affine Cifer Cryptography
 
 A new Flutter project.
 
